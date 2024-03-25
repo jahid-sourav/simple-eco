@@ -1,0 +1,138 @@
+[
+  {
+    "id": 1,
+    "title": "Wireless Bluetooth Earphones",
+    "image": "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8ZWFycGhvbmVzfHx8fHx8MTcxMTMxODQ2Nw&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
+    "price": 29.99,
+    "category": "Electronics",
+    "description": "Experience freedom with these wireless Bluetooth earphones. Enjoy high-quality sound and convenience on the go."
+  },
+  {
+    "id": 2,
+    "title": "Men's Casual Cotton T-Shirt",
+    "image": "https://images.unsplash.com/photo-1484517586036-ed3db9e3749e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8dHNoaXJ0fHx8fHx8MTcxMTMxODQ4MA&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
+    "price": 15.99,
+    "category": "Clothing",
+    "description": "Stay comfortable and stylish with this classic men's cotton t-shirt. Perfect for everyday wear."
+  },
+  {
+    "id": 3,
+    "title": "Women's Leather Shoulder Bag",
+    "image": "https://images.unsplash.com/photo-1617221078682-5f4feaa1f419?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8YmFnfHx8fHx8MTcxMTMxODQ5MQ&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
+    "price": 49.99,
+    "category": "Accessories",
+    "description": "Accessorize your outfit with this elegant women's leather shoulder bag. Spacious and stylish for any occasion."
+  },
+  {
+    "id": 4,
+    "title": "Smart LED TV - 55 inches",
+    "image": "https://images.unsplash.com/photo-1579894097903-bf6a37819b79?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8dHZ8fHx8fHwxNzExMzE4NTA0&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
+    "price": 599.99,
+    "category": "Electronics",
+    "description": "Upgrade your home entertainment with this 55-inch smart LED TV. Enjoy stunning visuals and smart features."
+  },
+  {
+    "id": 5,
+    "title": "Fitness Tracker Watch",
+    "image": "https://images.unsplash.com/photo-1591027480007-a42f6ef886c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8Zml0bmVzc3x8fHx8fDE3MTEzMTg1MzE&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
+    "price": 39.99,
+    "category": "Sports & Outdoors",
+    "description": "Track your fitness goals with this sleek fitness tracker watch. Monitor your activity, heart rate, and more."
+  },
+  {
+    "id": 6,
+    "title": "Kitchen Knife Set - 6 Pieces",
+    "image": "https://images.unsplash.com/photo-1589726310644-5e3752a69dcf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8a25pZmV8fHx8fHwxNzExMzE4NTQy&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
+    "price": 49.99,
+    "category": "Home & Kitchen",
+    "description": "Enhance your culinary skills with this high-quality knife set. Includes a variety of knives for all your kitchen needs."
+  },
+  {
+    "id": 7,
+    "title": "Women's Running Shoes",
+    "image": "https://images.unsplash.com/photo-1554735490-5974588cbc4f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8c2hvZXN8fHx8fHwxNzExMzE4NTU0&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
+    "price": 79.99,
+    "category": "Shoes",
+    "description": "Hit the pavement in style with these comfortable and supportive women's running shoes. Designed for performance and durability."
+  },
+  {
+    "id": 8,
+    "title": "Wireless Gaming Mouse",
+    "image": "https://images.unsplash.com/photo-1595074475055-10ab7377ccfb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8bW91c2V8fHx8fHwxNzExMzE4NTY3&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
+    "price": 34.99,
+    "category": "Electronics",
+    "description": "Gain the competitive edge with this responsive wireless gaming mouse. Precision and comfort for long gaming sessions."
+  },
+  {
+    "id": 9,
+    "title": "Men's Classic Leather Wallet",
+    "image": "https://images.unsplash.com/photo-1600761744877-3ee373b1b0f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbGV0fHx8fHx8MTcxMTMxODU3Nw&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
+    "price": 24.99,
+    "category": "Accessories",
+    "description": "Keep your essentials organized with this timeless men's classic leather wallet. Slim design with plenty of card slots."
+  },
+  {
+    "id": 10,
+    "title": "Portable Bluetooth Speaker",
+    "image": "https://images.unsplash.com/photo-1624023886126-35fee50320f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8c3BlYWtlcnx8fHx8fDE3MTEzMTg1ODY&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
+    "price": 69.99,
+    "category": "Electronics",
+    "description": "Take the party with you wherever you go with this portable Bluetooth speaker. Powerful sound in a compact design."
+  },
+  {
+    "id": 11,
+    "title": "Digital Camera - 24MP",
+    "image": "https://images.unsplash.com/photo-1556103255-4443dbae8e5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8Y2FtZXJhfHx8fHx8MTcxMTMxODU5NA&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
+    "price": 299.99,
+    "category": "Electronics",
+    "description": "Capture life's moments with stunning clarity using this high-resolution digital camera. Perfect for photography enthusiasts."
+  },
+  {
+    "id": 12,
+    "title": "Men's Waterproof Hiking Boots",
+    "image": "https://images.unsplash.com/photo-1542838776-096d877b5aa2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8Ym9vdHN8fHx8fHwxNzExMzE4NjA0&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
+    "price": 89.99,
+    "category": "Shoes",
+    "description": "Conquer the trails with confidence in these rugged and waterproof men's hiking boots. Built to withstand any terrain."
+  },
+  {
+    "id": 13,
+    "title": "Stainless Steel Water Bottle",
+    "image": "https://images.unsplash.com/photo-1605040056130-38d9faad3534?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8Ym90dGxlfHx8fHx8MTcxMTMxODYxMw&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
+    "price": 19.99,
+    "category": "Sports & Outdoors",
+    "description": "Stay hydrated on the go with this durable stainless steel water bottle. Keeps your drinks cold or hot for hours."
+  },
+  {
+    "id": 14,
+    "title": "Wireless Charging Pad",
+    "image": "https://images.unsplash.com/photo-1544141161-96178e30eb69?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8Y2hhcmdlcnx8fHx8fDE3MTEzMTg2MjI&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
+    "price": 29.99,
+    "category": "Electronics",
+    "description": "Charge your devices wirelessly with this convenient charging pad. Compatible with smartphones, tablets, and more."
+  },
+  {
+    "id": 15,
+    "title": "Portable Power Bank - 20000mAh",
+    "image": "https://images.unsplash.com/photo-1674331718297-c84055151d98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8cG93ZXJiYW5rfHx8fHx8MTcxMTMxODYzNA&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
+    "price": 49.99,
+    "category": "Electronics",
+    "description": "Never run out of battery on your devices with this high-capacity portable power bank. Charges smartphones, tablets, and more."
+  },
+  {
+    "id": 16,
+    "title": "Home Security Camera System - 4 Cameras",
+    "image": "https://images.unsplash.com/photo-1584143257259-50212e2ab820?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8c2VjdXJpdHl8fHx8fHwxNzExMzE4NjQz&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
+    "price": 299.99,
+    "category": "Home & Garden",
+    "description": "Keep your home safe and secure with this advanced home security camera system. Monitor your property from anywhere."
+  },
+  {
+    "id": 17,
+    "title": "Men's Stainless Steel Watch",
+    "image": "https://images.unsplash.com/photo-1516700829972-65a01767c294?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8d2F0Y2h8fHx8fHwxNzExMzE4NjU0&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
+    "price": 129.99,
+    "category": "Accessories",
+    "description": "Accessorize your look with this stylish men's stainless steel watch. A timeless piece for any occasion."
+  }
+]

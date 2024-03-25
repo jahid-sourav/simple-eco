@@ -1,0 +1,3 @@
+.logo {
+  @apply inline-block text-black/[.8] font-semibold text-2xl capitalize;
+}
